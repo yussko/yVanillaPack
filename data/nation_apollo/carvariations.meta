@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>apollo</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            76
+            76
+            77
+            156
+            0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            44
+            44
+            0
+            156
+            0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            3
+            156
+            0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            122
+            122
+            0
+            156
+            0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            63
+            63
+            74
+            156
+            0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            31
+            31
+            31
+            156
+            0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            73
+            73
+            0
+            156
+            0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            91
+            91
+            0
+            156
+            0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            54
+            54
+            54
+            156
+            0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            4
+            4
+            112
+            156
+            0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            17
+            17
+            4
+            156
+            0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            36
+            36
+            47
+            156
+            0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            71
+            71
+            20
+            156
+            0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            89
+            89
+            0
+            156
+            0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            142
+            142
+            72
+            156
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>apollo_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0"/>
+      <sirenSettings value="0"/>
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ShopVehicleDataArray>
+	<Vehicles>
+		<Item>
+			<lockHash>CU_VEH_REAGPR</lockHash>
+			<modelNameHash>reagpr</modelNameHash>
+			<cost value ="100"/>
+			<textLabel>REAGPR</textLabel>
+			<vehicleMods />
+		</Item>
+	</Vehicles>	
+</ShopVehicleDataArray>

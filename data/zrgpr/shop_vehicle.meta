@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ShopVehicleDataArray>
+	<Vehicles>
+		<Item>
+			<lockHash>CU_VEH_ZRGPR</lockHash>
+			<modelNameHash>zrgpr</modelNameHash>
+			<cost value ="100"/>
+			<textLabel>ZRGPR</textLabel>
+			<vehicleMods>zrgpr_mods</vehicleMods>
+		</Item>
+	</Vehicles>	
+</ShopVehicleDataArray>

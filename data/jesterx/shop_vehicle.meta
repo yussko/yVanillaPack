@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ShopVehicleDataArray>
+	<Vehicles>
+		<!-- Add your car here -->
+		<Item>
+			<lockHash>CU_JESTERX_VEH</lockHash>
+			<modelNameHash>jesterx</modelNameHash>
+			<cost value ="0"/>
+			<textLabel>JESTERX</textLabel>
+			<vehicleMods></vehicleMods>
+		</Item>
+	</Vehicles>	
+</ShopVehicleDataArray>
